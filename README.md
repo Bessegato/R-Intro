@@ -8,3 +8,6 @@ Sumário inicial:
 1- Tipos de Dados
 
 2- Estruturas de Dados
+
+3- Trabalhando com Vetores
+
